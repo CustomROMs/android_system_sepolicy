@@ -6,6 +6,7 @@
   ( adb_device
     adbd_exec
     broadcastradio_service
+    dufont_service
     e2fs
     e2fs_exec
     hal_broadcastradio_hwservice
